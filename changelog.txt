@@ -1,5 +1,5 @@
 16 Feb 26
-- Build 1.30-tbcanni (TBC Anniversary)
+- Build 1.30 (TBC Anniversary)
 	* Ported to work on TBC Anniversary
 
 21 Sep 21
@@ -289,5 +289,3 @@
 21 Dec 20
 - Build 0.10 beta
 	* Initial build
-1.30.18-tbcanni
-- Create SimpleHTML frames with SimpleHTMLTemplate to restore rendering on Anniversary clients.
