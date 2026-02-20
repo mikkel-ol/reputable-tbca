@@ -2,7 +2,7 @@
 ## Title: Reputable
 ## Author: Remulos' Revenga (port by Laks)
 ## Notes: Reputation enhancements and more!
-## Version: 1.30-tbcanni
+## Version: 1.30
 ## SavedVariables: Reputable_Data
 
 ## X-Curse-Project-ID: 429955
