@@ -8,9 +8,9 @@ TEMP_DIR=$(mktemp -d)
 mkdir -p "$TEMP_DIR/$ADDON_NAME"
 
 # Copy all addon files
-cp "$SCRIPT_DIR/Reputable.toc" "$TEMP_DIR/$ADDON_NAME/"
+cp "$SCRIPT_DIR/$ADDON_NAME.toc" "$TEMP_DIR/$ADDON_NAME/"
 cp "$SCRIPT_DIR/embeds.xml" "$TEMP_DIR/$ADDON_NAME/"
-cp "$SCRIPT_DIR/Reputable.lua" "$TEMP_DIR/$ADDON_NAME/"
+cp "$SCRIPT_DIR/$ADDON_NAME.lua" "$TEMP_DIR/$ADDON_NAME/"
 cp "$SCRIPT_DIR/questDB.lua" "$TEMP_DIR/$ADDON_NAME/"
 cp "$SCRIPT_DIR/variables.lua" "$TEMP_DIR/$ADDON_NAME/"
 cp "$SCRIPT_DIR/Options.lua" "$TEMP_DIR/$ADDON_NAME/"
