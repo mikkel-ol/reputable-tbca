@@ -1,5 +1,5 @@
 ## Interface: 20505
-## Title: Reputable
+## Title: Reputable TBCA
 ## Author: Remulos' Revenga (port by Laks)
 ## Notes: Reputation enhancements and more!
 ## Version: 1.30
