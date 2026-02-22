@@ -1,7 +1,7 @@
 #!/bin/bash
-# Package the Reputable addon into a zip file with a "Reputable-TBCA" folder
+# Package the Reputable addon into a zip file with a "Reputable" folder
 
-ADDON_NAME="Reputable-TBCA"
+ADDON_NAME="Reputable"
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 TEMP_DIR=$(mktemp -d)
 
